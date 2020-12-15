@@ -1,4 +1,5 @@
 def introduction(name)
+  name = Nyasha
   puts "Hi, my name is #{name}."
 end
 
